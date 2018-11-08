@@ -22,4 +22,4 @@ Jora Karuzo
 
 Nikita Tomash
 
-!(https://pp.userapi.com/c840737/v840737236/67192/unIViZFwTQ4.jpg)
+![Logo of Google Hash Code](https://pp.userapi.com/c840737/v840737236/67192/unIViZFwTQ4.jpg)
