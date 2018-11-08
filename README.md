@@ -1,5 +1,6 @@
 # MLH Hack.Moscow v2.0
 
+![Logo of Google Hash Code](https://pp.userapi.com/c840737/v840737236/67192/unIViZFwTQ4.jpg)
 
 
 You can find more information about the contest at https://hack.moscow/.
@@ -21,5 +22,3 @@ Alex Design
 Jora Karuzo
 
 Nikita Tomash
-
-![Logo of Google Hash Code](https://pp.userapi.com/c840737/v840737236/67192/unIViZFwTQ4.jpg)
