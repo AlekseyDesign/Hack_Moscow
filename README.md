@@ -8,7 +8,6 @@ You can find more information about the contest at https://hack.moscow/.
 We tried to solve problem for company Cleverbots track AI & Humans Simbiosis.
 
 My contribution to solution of this problem is minimal.
-
 In main here are solutions of my friends from team.
 
 Team: JoLi
