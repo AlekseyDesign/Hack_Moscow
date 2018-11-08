@@ -22,4 +22,4 @@ Jora Karuzo
 
 Nikita Tomash
 
-![Logo of Hack.Moscow v2.0](https://pp.userapi.com/c840737/v840737236/67192/unIViZFwTQ4.jpg)
+!(https://pp.userapi.com/c840737/v840737236/67192/unIViZFwTQ4.jpg)
